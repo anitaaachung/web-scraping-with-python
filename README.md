@@ -2,4 +2,4 @@ In this project, I scarp 100 largest companies from Wikipedia using python, and 
 
 #Full code in 'web scrapping project.ipynb'
 
-#Result in'Companies.csv'
+#Result in 'Companies.csv'
